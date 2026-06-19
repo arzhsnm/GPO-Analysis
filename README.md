@@ -1,4 +1,4 @@
-## GPO Analysis — кратко
+## GPO Analysis 
 
 **Задача:** A network capture from the boot sequence of a domain-joined workstation has been provided. Analyze the traffic and extract the administrator’s password.
 
